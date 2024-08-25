@@ -5,7 +5,7 @@ Click demo to try it by yourself!
 ## Todo App  Link
 
 You can view the site here
-[Click Me](https://bucolic-crumble-434654.netlify.app)
+[Click Me](https://elegant-languages.surge.sh/)
 
 ## Topics
 
